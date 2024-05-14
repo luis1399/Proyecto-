@@ -1,0 +1,111 @@
+Array
+(
+    [idCliente] => 1
+    [nombre] => Reisaa
+    [direccion] => Calle de prueba entre test
+    [correo] => reisaa@hotmail.com
+    [telefono] => 2256748776
+)
+
+Array
+(
+    [idCliente] => 3
+    [nombre] => Felipao
+    [direccion] => Casa 13
+    [correo] => felipao@gmail.com
+    [telefono] => 2345543445
+)
+
+Array
+(
+    [idCliente] => 3
+    [nombre] => Felipao
+    [direccion] => Casa en la esquina
+    [correo] => felipao@gmail.com
+    [telefono] => 2345543445
+)
+
+Array
+(
+    [idCliente] => 1
+    [nombre] => Reisaa
+    [direccion] => Calle de prueba entre test y corona
+    [correo] => reisaa@hotmail.com
+    [telefono] => 2256748776
+)
+
+Array
+(
+    [idCliente] => 22
+    [nombre] => Carlos García
+    [direccion] => Calle D, 56
+    [correo] => carlos.garcía@hotmail.com
+    [telefono] => 406044157
+)
+
+Array
+(
+    [idTecnico] => 
+    [nombre] => Nombre Prueba
+    [direccion] => Direccion prueba
+    [correo] => prueba@gmail.com
+    [celular] => 2234435667
+    [nss] => 23456547891
+    [curp] => NFHR976545HBULR7
+)
+
+Array
+(
+    [idTecnico] => 
+    [nombre] => Nombre Prueba
+    [direccion] => Direccion prueba
+    [correo] => prueba@gmail.com
+    [celular] => 2234435667
+    [nss] => 23456547891
+    [curp] => NFHR976545HBULR07
+)
+
+Array
+(
+    [idTecnico] => 
+    [nombre] => Nombre Prueba
+    [direccion] => Direccion prueba
+    [correo] => prueba@gmail.com
+    [celular] => 2234435667
+    [nss] => 23456547891
+    [curp] => NFHR976545HBULR07
+)
+
+Array
+(
+    [idTecnico] => 
+    [nombre] => Nombre Prueba
+    [direccion] => Direccion prueba
+    [correo] => prueba@gmail.co
+    [celular] => 2234435667
+    [nss] => 23456547891
+    [curp] => NFHR976545HBULR08
+)
+
+Array
+(
+    [idTecnico] => 1
+    [nombre] => Nombre Prueba
+    [direccion] => Direccion prueba
+    [correo] => prueba@gmail.com
+    [celular] => 2234435667
+    [nss] => 23456547891
+    [curp] => NFHR976545HBULR07
+)
+
+Array
+(
+    [idTecnico] => 1
+    [nombre] => Nombre Prueba
+    [direccion] => Direccion prueba
+    [correo] => prueba2@gmail.com
+    [celular] => 2234435667
+    [nss] => 23456547891
+    [curp] => NFHR976545HBULR07
+)
+

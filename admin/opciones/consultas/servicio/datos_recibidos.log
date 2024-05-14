@@ -1,0 +1,100 @@
+Sin datosArray
+(
+    [idServicio] => 1
+    [tamanio] => Grande
+    [categoria] => Preventivo
+    [subcategoria] => Intermedio
+    [descripcion] => Limpieza de filtros
+    [precio] => 799
+)
+
+Array
+(
+    [idServicio] => 4
+    [tamanio] => Mediano
+    [categoria] => Correctivo
+    [subcategoria] => Avanzado
+    [descripcion] => Limpieza de Sensores
+    [precio] => 2000
+)
+
+Array
+(
+    [idServicio] => 1
+    [tamanio] => Grande
+    [categoria] => Preventivo
+    [subcategoria] => Intermedio
+    [descripcion] => Limpieza de filtros
+    [precio] => 799
+)
+
+Array
+(
+    [idServicio] => 4
+    [tamanio] => Chico
+    [categoria] => Correctivo
+    [subcategoria] => Avanzado
+    [descripcion] => Limpieza de Sensores
+    [precio] => 2000
+)
+
+Array
+(
+    [idServicio] => 1
+    [tamanio] => Grande
+    [categoria] => Preventivo
+    [subcategoria] => Intermedio
+    [descripcion] => Limpieza de filtros
+    [precio] => 800
+)
+
+Array
+(
+    [idServicio] => 1
+    [tamanio] => Grande
+    [categoria] => Preventivo
+    [subcategoria] => Intermedio
+    [descripcion] => Limpieza de filtros
+    [precio] => 799
+)
+
+Array
+(
+    [idServicio] => 1
+    [tamanio] => Grande
+    [categoria] => Preventivo
+    [subcategoria] => Intermedio
+    [descripcion] => Limpieza de filtros
+    [precio] => 799
+)
+
+Array
+(
+    [idServicio] => 4
+    [tamanio] => Chico
+    [categoria] => Correctivo
+    [subcategoria] => Avanzado
+    [descripcion] => Limpieza de Sensores
+    [precio] => 1999
+)
+
+Array
+(
+    [idServicio] => 5
+    [tamanio] => Mediano
+    [categoria] => Preventivo
+    [subcategoria] => Avanzado
+    [descripcion] => Limpieza
+    [precio] => 1499
+)
+
+Array
+(
+    [idServicio] => 6
+    [tamanio] => Chico
+    [categoria] => Preventivo
+    [subcategoria] => Básico
+    [descripcion] => Chequeo Rutinario
+    [precio] => 1199
+)
+

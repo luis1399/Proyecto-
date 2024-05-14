@@ -1,0 +1,34 @@
+Array
+(
+    [descripcion] => Martillo
+    [precio] => 150
+)
+
+Array
+(
+    [idProducto] => 1
+    [descripcion] => Martillo
+    [precio] => 155
+)
+
+Array
+(
+    [idProducto] => 1
+    [descripcion] => Martillo
+    [precio] => 150
+)
+
+Array
+(
+    [idProducto] => 1
+    [descripcion] => Martillo 1
+    [precio] => 1000
+)
+
+Array
+(
+    [idProducto] => 1
+    [descripcion] => Martillo 1
+    [precio] => 100
+)
+
